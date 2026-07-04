@@ -1,0 +1,1 @@
+print("Halo dari script saya!")
